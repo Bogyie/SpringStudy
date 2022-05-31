@@ -11,7 +11,7 @@
         <constructor-arg   value="이순신" />
    </bean>
 
-   <bean id="personService2" class="com.spring.ex02.PersonServiceImpl">
+   <bean id="personService2" class="com.spring.ex02.EmployServiceImpl">
        <constructor-arg   value="손흥민"  />
        <constructor-arg   value="축구선수"  />
    </bean>
