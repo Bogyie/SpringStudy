@@ -6,7 +6,7 @@ import org.springframework.context.support.FileSystemXmlApplicationContext;
 public class LazyTest {
 	public static void main(String[] args) {
 		ApplicationContext context = new FileSystemXmlApplicationContext("lazy.xml");
-		System.out.println("SecondBean ¾ò±â");
+		System.out.println("SecondBean ì–»ê¸°");
 		context.getBean("secondBean");
 	}
 }
