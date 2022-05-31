@@ -5,5 +5,16 @@
 	<bean id="memberService" class="com.spring.ex03.MemberServiceImpl">
 	   <property name="memberDAO" ref="memberDAO" />
 	</bean>
-	<bean id="memberDAO" class="com.spring.ex03.MemberDAOImpl" />
+
+	<bean id="guestService" class="com.spring.ex03.MemberServiceImpl">
+		<property name="memberDAO" ref="guestDAO" />
+	</bean>
+
+	<bean id="memberDAO" class="com.spring.ex03.MemberDAOImpl">
+		<constructor-arg value="true"/>
+	</bean>
+
+	<bean id="guestDAO" class="com.spring.ex03.MemberDAOImpl">
+		<constructor-arg value="false"/>
+	</bean>
 </beans>
