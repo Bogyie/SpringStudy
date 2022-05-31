@@ -13,11 +13,14 @@
 
    <bean id="personService2" class="com.spring.ex02.PersonServiceImpl">
        <constructor-arg   value="손흥민"  />
-       <constructor-arg   value="23"  />
+       <constructor-arg   value="축구선수"  />
    </bean>
 
+   <!-- Bean 객체 생성 -->
    <bean id="personService3" class="com.spring.ex02.PersonServiceImpl">
-      <constructor-arg   value="김보경"  />
-      <constructor-arg   value="26"  />
+      <!-- 생성자를 사용한 Bean 객체 생성시 사용할 argument 값 설정 -->
+      <!-- 만약 생성자로 사용할 값이 지정되지 않으면 null 값이 설정됨  -->
+      <constructor-arg   value="Person"  />
+      <constructor-arg   value="2"  />
    </bean>
 </beans>

@@ -25,3 +25,12 @@
     - Setter Injection : 의존성을 입력 받는 setter메서드를 만들고 이를 이용해 의존성을 주입
     - Constructor Injection : 필요한 의존성을 포함하는 클래스의 생성자를 만들고 이를 통해 의존성을 주입
     - Method Injection : 의존성을 입력받는 일반 메서드를 만들고 이를 통해 의존성을 주입
+
+
+## Bean 태그에 사용되는 속성
+- id : 빈 객체의 고유 이름, 이를 사용해 빈에 접근
+- name : 객체의 별칭
+- class : 생성할 클래스. 패키지 이름까지 입력 필요
+- constructor-arg : 생성자를 이용한 의존성 주입
+- property : setter를 이용한 의존성 주입
+- lazy-init : 빈 생성 시점을 lazy하게 설정
