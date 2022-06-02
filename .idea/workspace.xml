@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e30b72d6-ebf3-4c20-bc20-df6a1dca78b2" name="Changes" comment="trace workspace.xml">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="edit project config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/LoggingAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/LoggingAdvice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +20,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.18223938" />
+    <property name="project.structure.side.proportion" value="0.22643678" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.ex01.CalcTest" />
+      <module name="SpringStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalcTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="trace workspace.xml">
