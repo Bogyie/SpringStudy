@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="edit project config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/LoggingAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/LoggingAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/AOPTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/spring/ex01/CalcTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/spring/ex01/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/spring/ex01/LoggingAdvice.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +23,23 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29zzeAsBbD9mj5EchCN1OrmYo7Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22643678" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -44,6 +61,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="trace workspace.xml">
       <created>1654128854519</created>
@@ -52,8 +70,19 @@
       <option name="project" value="LOCAL" />
       <updated>1654128854519</updated>
     </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="edit project config" />
+      <created>1654131247911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654131247911</updated>
+      <workItem from="1654131248273" duration="29000" />
+    </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -69,5 +98,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trace workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="trace workspace.xml" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
