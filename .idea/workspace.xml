@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="append context in README.md&#10;&#10;AOP feature impl workflow - Spring API">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringStudy.iml" afterDir="false" />
-    </list>
+    <list default="true" id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="change project config" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654131247911</updated>
       <workItem from="1654131248273" duration="269000" />
-      <workItem from="1654131527956" duration="1106000" />
+      <workItem from="1654131527956" duration="1181000" />
     </task>
     <task id="LOCAL-00002" summary="append context in README.md">
       <created>1654131305041</created>
@@ -89,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654132394355</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change project config">
+      <created>1654132662205</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654132662205</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +113,8 @@
     <MESSAGE value="trace workspace.xml" />
     <MESSAGE value="append context in README.md" />
     <MESSAGE value="append context in README.md&#10;&#10;AOP feature impl workflow - Spring API" />
-    <option name="LAST_COMMIT_MESSAGE" value="append context in README.md&#10;&#10;AOP feature impl workflow - Spring API" />
+    <MESSAGE value="change project config" />
+    <option name="LAST_COMMIT_MESSAGE" value="change project config" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
