@@ -12,11 +12,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="create gitignore" />
+    <list default="true" id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="컨트롤러 - 서비스 분리">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/spring/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/spring/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/spring/services/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex02/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex02/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/action-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/action-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test/loginResult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test/loginForm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test/loginForm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test/memberForm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test/registerForm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test/memberInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test/registerResult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test/result.jsp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -29,11 +51,13 @@
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
@@ -66,7 +90,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3321839" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -83,19 +107,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="SpringStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="SpringStudy" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 9.0.62" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.62" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
@@ -188,6 +199,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="" />
@@ -196,6 +210,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654127454346</updated>
       <workItem from="1654127456239" duration="1337000" />
+      <workItem from="1654159005174" duration="944000" />
     </task>
     <task id="LOCAL-00001" summary="import book source">
       <created>1654127739751</created>
@@ -295,7 +310,8 @@
     <MESSAGE value="fix dependency" />
     <MESSAGE value="impl loginForm url mapping" />
     <MESSAGE value="create gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="create gitignore" />
+    <MESSAGE value="컨트롤러 - 서비스 분리" />
+    <option name="LAST_COMMIT_MESSAGE" value="컨트롤러 - 서비스 분리" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
