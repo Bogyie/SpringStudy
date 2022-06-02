@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="change project config" />
+    <list default="true" id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="change project config">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/CalcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/LoggingAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/LoggingAdvice.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +23,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="29zzeAsBbD9mj5EchCN1OrmYo7Y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +39,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22643678" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunManager">
     <configuration name="CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -69,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654131247911</updated>
       <workItem from="1654131248273" duration="269000" />
-      <workItem from="1654131527956" duration="1181000" />
+      <workItem from="1654131527956" duration="2425000" />
     </task>
     <task id="LOCAL-00002" summary="append context in README.md">
       <created>1654131305041</created>
@@ -92,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654132662205</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change project config">
+      <created>1654132717080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654132717080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
