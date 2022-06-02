@@ -4,7 +4,9 @@
 <beans>
    <bean id="calcTarget" class="com.spring.ex01.Calculator" />
    <bean id="calcTarget2" class="com.spring.ex01.Calculator2" />
+
    <bean id="logAdvice" class="com.spring.ex01.LoggingAdvice" />
+   <bean id="timerAdvice" class="com.spring.ex01.TimeCheckAdvice" />
    
    <bean id="proxyCal"
           class="org.springframework.aop.framework.ProxyFactoryBean">
@@ -21,7 +23,7 @@
       <property name="target" ref="calcTarget2"/>
       <property name="interceptorNames">
          <list>
-            <value>logAdvice</value>
+            <value>timerAdvice</value>
          </list>
       </property>
    </bean>
