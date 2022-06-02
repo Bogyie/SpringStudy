@@ -27,6 +27,24 @@ public class CalcTest {
         System.out.println();
 
         cal.divide(100, 20);
+
+        System.out.println();
+
+        cal.pow(2, 10);
+
+        System.out.println();
+
+        // calculator 2
+
+        Calculator2 cal2 = (Calculator2) context.getBean("proxyCal2");
+
+        System.out.println(cal2.fibonacci(10));
+
+        System.out.println();
+
+        System.out.println(cal2.factorial(10));
+
+        System.out.println();
     }
 }
 

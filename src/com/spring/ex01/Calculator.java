@@ -20,4 +20,8 @@ public class Calculator {
 		int result=x / y;
 		System.out.println("결과:"+ result);
 	}
+
+	public void pow(int x, int y) {
+		System.out.println(Math.pow(x, y));
+	}
 }
