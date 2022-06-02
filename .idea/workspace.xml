@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="impl Calculator2.java">
-      <change afterPath="$PROJECT_DIR$/src/com/spring/ex01/TimeCheckAdvice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AOPTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/AOPTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/CalcTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="5bae7673-da8f-4986-bfa2-dd9b26105d84" name="Changes" comment="impl TimeCheckAdvice.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654149124480</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="impl TimeCheckAdvice.java">
+      <created>1654149558808</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654149558808</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +193,8 @@
     <MESSAGE value="change project config" />
     <MESSAGE value="make comment in code&#10;append context in README.md" />
     <MESSAGE value="impl Calculator2.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="impl Calculator2.java" />
+    <MESSAGE value="impl TimeCheckAdvice.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="impl TimeCheckAdvice.java" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
