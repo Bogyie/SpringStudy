@@ -23,7 +23,6 @@ public class MemberDAO {
 			}
 		}
 		return sqlMapper;
-
 	}
 
 	public String  selectName() {
