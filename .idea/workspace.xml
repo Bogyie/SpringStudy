@@ -6,13 +6,25 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="Update README.md and fix sql query to match database">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="connect database">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/MemberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/MemberDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/MemberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/MemberServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/MemberVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/MemberVO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/spring/ex02/MemberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex02/MemberDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mybatis/mappers/member.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/mybatis/mappers/member.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex03/MemberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex03/MemberDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex03/MemberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex03/MemberServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex04/MemberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex04/MemberDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex04/MemberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex04/MemberServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test01/listMembers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test01/listMembers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test02/listMembers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test02/listMembers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test02/memberInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test02/memberInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test02/search.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test02/search.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test03/listMembers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test03/listMembers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test03/memberForm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test03/memberForm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test03/modMember.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test03/modMember.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test03/searchMember.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test03/searchMember.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +185,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654227709027</updated>
-      <workItem from="1654227710448" duration="3389000" />
+      <workItem from="1654227710448" duration="3496000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;make project&quot;&#10;&#10;This reverts commit a9a8cdd6">
       <created>1654227920879</created>
@@ -224,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654229542442</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="connect database">
+      <created>1654231120464</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654231120464</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +280,7 @@
     <MESSAGE value="add java ee 6 lib" />
     <MESSAGE value="fix project configure" />
     <MESSAGE value="Update README.md and fix sql query to match database" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md and fix sql query to match database" />
+    <MESSAGE value="connect database" />
+    <option name="LAST_COMMIT_MESSAGE" value="connect database" />
   </component>
 </project>
