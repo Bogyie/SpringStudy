@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="make branch and copy files from source">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mybatis_3_4_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringStudy.iml" afterDir="false" />
+    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="fix project setting and dependency">
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex02/MemberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex02/MemberServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/spring/ex04/MemberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex04/MemberServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,18 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,6 +47,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2632184" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -51,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654227709027</updated>
-      <workItem from="1654227710448" duration="532000" />
+      <workItem from="1654227710448" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;make project&quot;&#10;&#10;This reverts commit a9a8cdd6">
       <created>1654227920879</created>
@@ -74,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654228117522</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix project setting and dependency">
+      <created>1654228275198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654228275198</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +125,7 @@
     <MESSAGE value="Revert &quot;make project&quot;&#10;&#10;This reverts commit a9a8cdd6" />
     <MESSAGE value="clear master branch" />
     <MESSAGE value="make branch and copy files from source" />
-    <option name="LAST_COMMIT_MESSAGE" value="make branch and copy files from source" />
+    <MESSAGE value="fix project setting and dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix project setting and dependency" />
   </component>
 </project>
