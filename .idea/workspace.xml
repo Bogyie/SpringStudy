@@ -6,25 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="connect database">
+    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="reformat codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/MemberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/MemberDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/MemberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/MemberServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/MemberVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/MemberVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/spring/ex02/MemberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex02/MemberDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/spring/ex03/MemberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex03/MemberDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/spring/ex03/MemberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex03/MemberServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/spring/ex04/MemberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex04/MemberDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/spring/ex04/MemberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex04/MemberServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test01/listMembers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test01/listMembers.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test02/listMembers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test02/listMembers.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test02/memberInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test02/memberInfo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test02/search.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test02/search.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test03/listMembers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test03/listMembers.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test03/memberForm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test03/memberForm.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test03/modMember.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test03/modMember.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test03/searchMember.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test03/searchMember.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mybatis/mappers/member.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/mybatis/mappers/member.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,7 +246,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="pro23" />
                       </list>
                     </value>
                   </entry>
