@@ -5,10 +5,20 @@
       <artifact name="SpringStudy:Web exploded" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="fix project workspace and dependency">
+    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SpringStudy_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SpringStudy_Web_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d853eec9-18bb-460b-8a29-cb43b460671d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d853eec9-18bb-460b-8a29-cb43b460671d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d853eec9-18bb-460b-8a29-cb43b460671d/storage_v2/_src_/schema/SYSTEM.L2avkg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d853eec9-18bb-460b-8a29-cb43b460671d/storage_v2/_src_/schema/SYSTEM.L2avkg.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/config/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/config/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mybatis/mappers/member.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/mybatis/mappers/member.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +60,12 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2A3A56BZnUxBZRFaJIEmmymr78S" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -61,11 +75,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2632184" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="spring" />
+    <property name="settings.editor.selected.configurable" value="com.haulmont.jpb.dtoDeclaration" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -159,18 +173,6 @@
         <option name="BuildArtifacts" enabled="true">
           <artifact name="SpringStudy:Web exploded" />
         </option>
-      </method>
-    </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment />
-      <server-settings />
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <method v="2">
-        <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
