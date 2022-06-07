@@ -5,12 +5,12 @@
       <artifact name="SpringStudy:Web exploded" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="reformat codes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/MemberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/MemberDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/spring/ex01/MemberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/spring/ex01/MemberServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mybatis/mappers/member.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/mybatis/mappers/member.xml" afterDir="false" />
+    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="remove gradle">
+      <change beforePath="$PROJECT_DIR$/SpringStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringStudy.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2A3A56BZnUxBZRFaJIEmmymr78S" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
