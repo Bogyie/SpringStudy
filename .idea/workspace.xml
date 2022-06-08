@@ -9,30 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="create branch">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mybatis_spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/libs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+    <list default="true" id="7f5ebf89-8e36-475d-81d2-4732cdb060c2" name="Changes" comment="fix project dependency">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/cglib-nodep-2.1_3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbcp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/commons-pool.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-3.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-spring-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-3.0.14-production-bin.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.aop-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.asm-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.aspects-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.beans-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.context-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.core-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.expression-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.jdbc-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.transaction-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.web-3.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.web.servlet-3.0.6.RELEASE.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +69,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2632184" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -211,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654570583150</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix project dependency">
+      <created>1654571441350</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654571441350</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +229,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;make project&quot;&#10;&#10;This reverts commit a9a8cdd6" />
     <MESSAGE value="create branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="create branch" />
+    <MESSAGE value="fix project dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix project dependency" />
   </component>
 </project>
