@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 
 import com.spring.member.vo.MemberVO;
 
-@Repository("memberDAO")
+@Repository
 public class MemberDAOImpl implements MemberDAO {
 	@Autowired
 	private SqlSession sqlSession;
